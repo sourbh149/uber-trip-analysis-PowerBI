@@ -53,7 +53,7 @@ The dashboard enables dynamic exploration of data through KPIs, filters, and dri
 
 ## 📌 Author
 **Sourbh**  
-Senior Software Engineer | Data & Analytics Enthusiast  
+Software Engineer | Data & Analytics Enthusiast  
 
 ---
 
